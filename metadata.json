@@ -1,0 +1,6 @@
+{
+  "name": "CareGrid - Clinical Patient & Hospital Unit Coordination System",
+  "description": "High-fidelity clinical care grid, patient telemetry monitoring, bed management, eMAR, and care team coordination platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
